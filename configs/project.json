@@ -1,0 +1,48 @@
+{
+  "slug": "climate-risk-signal-engine",
+  "title": "Climate Risk Signal Engine",
+  "project_type": "analytics",
+  "domain": "Climate FinTech",
+  "summary": "Aggregate exposure, disruption, and volatility signals into a clear climate risk scorecard.",
+  "tags": [
+    "climate",
+    "risk",
+    "signals"
+  ],
+  "accent": "#0077b6",
+  "dashboard_metrics": [
+    {
+      "label": "North Star",
+      "value": "72",
+      "delta": "+7.1%"
+    },
+    {
+      "label": "Variance",
+      "value": "9%",
+      "delta": "-1.8%"
+    },
+    {
+      "label": "Decision Cycle",
+      "value": "4d",
+      "delta": "-0.5d"
+    }
+  ],
+  "sample_features": {
+    "current_conversion": 0.15,
+    "baseline_conversion": 0.12,
+    "volume": 2150,
+    "segment": "paid_users"
+  },
+  "sample_metrics": {
+    "acquisition": 47.2,
+    "activation": 45.0,
+    "retention": 56.4,
+    "revenue": 93.4
+  },
+  "knowledge_base": [
+    "Climate Risk Signal Engine is positioned as a Climate FinTech starter that emphasizes fast iteration, clear documentation, and production-friendly interfaces.",
+    "The primary value proposition is: Aggregate exposure, disruption, and volatility signals into a clear climate risk scorecard.",
+    "Recommended operating model: ship a small API, add observability, validate outputs with stakeholder review, and monitor the top business KPI every week.",
+    "Typical stakeholders include analytics, operations, product, and leadership teams working on climate, risk, signals."
+  ]
+}
